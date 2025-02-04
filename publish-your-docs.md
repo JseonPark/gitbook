@@ -1,5 +1,6 @@
 ---
 icon: globe-pointer
+hidden: true
 ---
 
 # Publish your docs
