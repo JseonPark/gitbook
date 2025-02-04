@@ -1,5 +1,6 @@
 ---
 icon: markdown
+hidden: true
 ---
 
 # Markdown
