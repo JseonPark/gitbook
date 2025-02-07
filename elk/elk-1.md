@@ -2,7 +2,7 @@
 description: ELK스택에 익숙해지기 위해 무작정 설치하고 사용해보기.
 ---
 
-# \[ ElasticSearch, Kibana 무작정 설치해보기 1 ] 로그를 제대로 관리해보자
+# \[ ELK 무작정 해보기 1 ] 로그를 제대로 관리해보자
 
 {% hint style="info" %}
 사내 시스템의 로그 관리 방식을 개선 하기 위한 개인 스터디 과정을 기록합니다.\
@@ -35,7 +35,7 @@ description: ELK스택에 익숙해지기 위해 무작정 설치하고 사용�
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>ELK 스택(Elasticsearch, Kibana, Logstash, Beats)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>ELK 스택(Elasticsearch, Kibana, Logstash, Beats)</p></figcaption></figure>
 
 ### ELK 스택을 활용해보자
 
