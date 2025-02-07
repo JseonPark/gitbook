@@ -4,14 +4,14 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 # \[ ELK 무작정 해보기 2 ] ElasticSearch설치하기 (8.17 버전) (Mac)
 
-엘라스틱공식 홈페이지에서 다운로드
+### 엘라스틱서치 공식 홈페이지에서 다운로드
 
 1. 아래 주소로 접속합니다.\
    [https://www.elastic.co/downloads/past-releases#elasticsearch](https://www.elastic.co/downloads/past-releases#elasticsearch)\
 
 2.  원하는 버전을 선택 후 다운로드 버튼을 클릭합니다.
 
-    저는 제일 최신 버전인 8.17.1 버전을 선택하도록 하겠습니다.
+    저는 제일 최신 버전인 8.17 버전을 선택하도록 하겠습니다.
 
 <figure><img src="../.gitbook/assets/es_download (1).png" alt=""><figcaption><p>엘라스틱서치 다운로드 버전 선택</p></figcaption></figure>
 
@@ -24,5 +24,39 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 <figure><img src="../.gitbook/assets/es_download3.png" alt=""><figcaption><p>다운받은 tar파일 압축 풀기</p></figcaption></figure>
 
-5. 터미널로 접근해서 실행시키기
+5. elasticsearch-8.17.0/bin 디렉토리의 elaticsearch 파일을 실행시킵니다.
+
+<div data-full-width="false"><figure><img src="../.gitbook/assets/es_terminal.png" alt=""><figcaption><p>elasticsearch 실행시키기</p></figcaption></figure></div>
+
+
+
+
+
+
+
+{% stepper %}
+{% step %}
+
+
+
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
+
+{% hint style="info" %}
+실행 시 다음과 같은 에러가 발생한다면 이 글을 참고해주세요
+{% endhint %}
+
+<div align="center" data-full-width="true"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="249"><figcaption></figcaption></figure></div>
+
+
+
+
+
+
 
