@@ -24,11 +24,13 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 <figure><img src="../.gitbook/assets/es_download3.png" alt=""><figcaption><p>다운받은 tar파일 압축 풀기</p></figcaption></figure>
 
-5. elasticsearch-8.17.0/bin 디렉토리의 elaticsearch 파일을 실행시킵니다.
+5. 터미널을 열고 elasticsearch-8.17.0/bin 경로의 elaticsearch 파일을 실행시킵니다.
 
 <div data-full-width="false"><figure><img src="../.gitbook/assets/es_terminal.png" alt=""><figcaption><p>elasticsearch 실행시키기</p></figcaption></figure></div>
 
+6.  localhost:9200 으로 접근하여 정상적으로 실행 되었는지 확인합니다.
 
+    (엘라스틱서치 기본 포트는 9200)
 
 
 
