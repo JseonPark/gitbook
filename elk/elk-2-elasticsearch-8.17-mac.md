@@ -24,4 +24,5 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 <figure><img src="../.gitbook/assets/es_download3.png" alt=""><figcaption><p>다운받은 tar파일 압축 풀기</p></figcaption></figure>
 
-5. 터미널로 접근하여 실행시키기
+5. 터미널로 접근해서 실행시키기
+
