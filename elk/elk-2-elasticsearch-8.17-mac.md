@@ -8,31 +8,38 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 ***
 
-1. 아래 공식 홈페이지 주소로 접속합니다.\
-   [https://www.elastic.co/downloads/past-releases#elasticsearch](https://www.elastic.co/downloads/past-releases#elasticsearch)\
-   \
-   \
+{% stepper %}
+{% step %}
+아래 공식 홈페이지 주소로 접속합니다.\
+[https://www.elastic.co/downloads/past-releases#elasticsearch](https://www.elastic.co/downloads/past-releases#elasticsearch)
 
-2.  원하는 버전을 선택 후 다운로드 버튼을 클릭합니다.
 
-    저는 제일 최신 버전인 8.17 버전을 선택하도록 하겠습니다.
+{% endstep %}
+
+{% step %}
+원하는 버전을 선택 후 다운로드 버튼을 클릭합니다.\
+저는 제일 최신 버전인 8.17 버전을 선택하도록 하겠습니다.
 
 <div data-full-width="false"><figure><img src="../.gitbook/assets/es_download (1).png" alt=""><figcaption><p>엘라스틱서치 다운로드 버전 선택</p></figcaption></figure></div>
 
-\
 
+{% endstep %}
 
-3. 다운로드 버튼을 클릭 후 알맞은 운영체제를 선택합니다.\
-   저는 애플 실리콘 칩인 M1을 사용하고 있기 때문에 AARCH64를 선택하겠습니다.
+{% step %}
+다운로드 버튼을 클릭 후 알맞은 운영체제를 선택합니다.\
+저는 애플 실리콘 칩인 M1을 사용하고 있기 때문에 AARCH64를 선택하겠습니다.
 
 <figure><img src="../.gitbook/assets/es_download2.png" alt=""><figcaption><p>엘라스틱서치 다운로드 운영체제 선택</p></figcaption></figure>
 
-\
 
+{% endstep %}
 
-4. 다운로드 받은 파일을 더블클릭해 압축을 풀어줍니다.
+{% step %}
+다운로드 받은 파일을 더블클릭해 압축을 풀어줍니다.
 
 <figure><img src="../.gitbook/assets/es_download3.png" alt=""><figcaption><p>다운받은 tar파일 압축 풀기</p></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 
 
@@ -40,39 +47,36 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 ***
 
-1. 터미널을 열고 elasticsearch-8.17.0/bin 경로의 elaticsearch 파일을 실행시킵니다.
-
-<div data-full-width="false"><figure><img src="../.gitbook/assets/es_terminal.png" alt=""><figcaption><p>elasticsearch 실행시키기</p></figcaption></figure></div>
-
-\
-
-
-2. localhost:9200 으로 접근하여 정상적으로 실행 되었는지 확인합니다.\
-   (엘라스틱서치 기본 포트는 9200)
-
-
-
-
-
 {% stepper %}
 {% step %}
+터미널을 열고 elasticsearch-8.17.0/bin 경로의 elaticsearch 파일을 실행시킵니다.
 
+<div data-full-width="false"><figure><img src="../.gitbook/assets/es_terminal.png" alt=""><figcaption><p>elasticsearch 실행시키기</p></figcaption></figure></div>
 
 
 {% endstep %}
 
 {% step %}
-###
+localhost:9200 으로 접근하여 정상적으로 실행 되었는지 확인합니다.\
+(엘라스틱서치 기본 포트는 9200)
 
 
 {% endstep %}
 {% endstepper %}
+
+
+
+
 
 {% hint style="info" %}
 실행 시 다음과 같은 에러가 발생한다면 이 글을 참고해주세요
 {% endhint %}
 
 <div align="center" data-full-width="true"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="249"><figcaption></figcaption></figure></div>
+
+
+
+
 
 
 
