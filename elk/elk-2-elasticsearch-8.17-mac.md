@@ -59,17 +59,17 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 실행 시 다음과 같은 에러가 발생한다면 이 글을 참고해주세요
 {% endhint %}
 
-<div align="center" data-full-width="true"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="249"><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="249"><figcaption><p>macOS Gatekeeper</p></figcaption></figure></div>
 
 
 {% endstep %}
 
 {% step %}
-localhost:9200 으로 접근하여 정상적으로 실행 되었는지 확인합니다.\
+localhost:9200 으로 요청하여 정상적으로 실행 되었는지 확인합니다.\
 (엘라스틱서치 기본 포트는 9200)
 
 {% hint style="info" %}
-최초 실행 후 localhost:9200로 접근하면 ID와 PW를 입력해야 합니다. \
+최초 실행 후 localhost:9200로 접근하면 ID와 PW를 입력 해야 합니다. \
 엘라스틱서치 실행 로그에서 아래와 같이 아이디와 초기 비밀번호를 확인할 수 있습니다.\
 id : elastic / pw : 7XHMwiELzoYy0Wk
 {% endhint %}
@@ -78,21 +78,8 @@ id : elastic / pw : 7XHMwiELzoYy0Wk
 
 
 
+아래화면이 출력된다면 정상 실행 된 것 입니다.
 
+<figure><img src="../.gitbook/assets/스크린샷 2025-02-07 오후 11.52.53.png" alt=""><figcaption><p>elasticsearch 정상 실행 확인</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
