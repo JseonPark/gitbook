@@ -20,3 +20,7 @@
 ***
 
 * [Publish your docs](publish-your-docs.md)
+
+## MAC
+
+* [\[ERROR\] Apple에서 악성 소프트웨어가 있는지 확인할 수 없기 때문에 열 수 없습니다.](mac/error-apple-..md)
