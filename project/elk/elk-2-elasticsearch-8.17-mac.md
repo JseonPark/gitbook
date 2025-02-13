@@ -23,7 +23,7 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/es_download (1).png" alt=""><figcaption><p>엘라스틱서치 다운로드 버전 선택</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/es_download (1).png" alt=""><figcaption><p>엘라스틱서치 다운로드 버전 선택</p></figcaption></figure></div>
 
 \
 
@@ -35,7 +35,7 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 
 
-<figure><img src="../.gitbook/assets/es_download2.png" alt=""><figcaption><p>엘라스틱서치 다운로드 운영체제 선택</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/es_download2.png" alt=""><figcaption><p>엘라스틱서치 다운로드 운영체제 선택</p></figcaption></figure>
 
 \
 
@@ -46,7 +46,7 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 
 
-<figure><img src="../.gitbook/assets/es_download3.png" alt=""><figcaption><p>다운받은 tar파일 압축 풀기</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/es_download3.png" alt=""><figcaption><p>다운받은 tar파일 압축 풀기</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -63,7 +63,7 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 
 
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/es_terminal.png" alt=""><figcaption><p>elasticsearch 실행시키기</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/es_terminal.png" alt=""><figcaption><p>elasticsearch 실행시키기</p></figcaption></figure></div>
 
 \
 
@@ -71,10 +71,10 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 {% hint style="info" %}
 실행 시 다음과 같은 에러가 발생한다면 이 글을 참고해주세요.
 
-[error-apple-..md](../mac/error-apple-..md "mention")
+[error-apple-..md](../../mac/error-apple-..md "mention")
 {% endhint %}
 
-<div align="center" data-full-width="true"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="249"><figcaption><p>macOS Gatekeeper</p></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="249"><figcaption><p>macOS Gatekeeper</p></figcaption></figure></div>
 
 \
 
@@ -91,14 +91,14 @@ localhost:9200 으로 요청하여 정상적으로 실행 되었는지 확인합
 (id : elastic / pw : 7XHMwiELzoYy0Wk)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/스크린샷 2025-02-10 오후 9.35.26.png" alt=""><figcaption><p>elasticsearch 실행 로그</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-02-10 오후 9.35.26.png" alt=""><figcaption><p>elasticsearch 실행 로그</p></figcaption></figure>
 
 \
 
 
 Json으로 다음과 같은 내용이 출력된다면 정상 실행 된 것 입니다.
 
-<figure><img src="../.gitbook/assets/스크린샷 2025-02-07 오후 11.52.53.png" alt=""><figcaption><p>elasticsearch 정상 실행 확인</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-02-07 오후 11.52.53.png" alt=""><figcaption><p>elasticsearch 정상 실행 확인</p></figcaption></figure>
 
 \
 

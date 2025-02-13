@@ -35,7 +35,7 @@ description: ELK스택에 익숙해지기 위해 무작정 설치하고 사용�
 
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>ELK 스택(Elasticsearch, Kibana, Logstash, Beats)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>ELK 스택(Elasticsearch, Kibana, Logstash, Beats)</p></figcaption></figure>
 
 ### ELK 스택을 활용해보자
 
