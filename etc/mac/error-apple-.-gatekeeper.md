@@ -6,13 +6,13 @@ description: macOS Gatekeeper에 의해 실행이 차단되었을때 조치 방�
 
 설치한 파일을 실행하려고 할때 GateKeeper에 의해 다음과 같은 에러가 발생할 때가 있다.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Gatekeeper Error</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Gatekeeper Error</p></figcaption></figure>
 
 
 
 ### GateKeeper가 뭘까?
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>macOS GateKeeper</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>macOS GateKeeper</p></figcaption></figure>
 
 그렇다고 합니다..\
 한마디로 확인되지 않은 프로그램은 실행할 수 없게 차단하는 기능입니다.\

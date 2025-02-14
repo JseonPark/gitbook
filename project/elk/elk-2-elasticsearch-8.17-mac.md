@@ -71,7 +71,7 @@ description: 엘라스틱서치를 설치하고 실행해보기.
 {% hint style="info" %}
 실행 시 다음과 같은 에러가 발생한다면 이 글을 참고해주세요.
 
-[error-apple-..md](../../mac/error-apple-..md "mention")
+[error-apple-.-gatekeeper.md](../../etc/mac/error-apple-.-gatekeeper.md "mention")
 {% endhint %}
 
 <div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="249"><figcaption><p>macOS Gatekeeper</p></figcaption></figure></div>
