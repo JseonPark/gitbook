@@ -15,7 +15,11 @@ description: ELK스택에 익숙해지기 위해 무작정 설치하고 사용�
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>현재 로그 분석방법 3가지</p></figcaption></figure>
 
+
+
 현재, 내가 운영 중인 서비스에서는 주요 로그들은 RDB의 LOG 테이블에 저장하고, 나머지 로그들은 서버에 직접 접근하여 파일을 열거나 다운받아 확인하는 방식으로 로그를 관리하고 있다.&#x20;
+
+
 
 ### 서버에 직접 접근하는 방식
 
@@ -37,9 +41,13 @@ description: ELK스택에 익숙해지기 위해 무작정 설치하고 사용�
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>ELK 스택(Elasticsearch, Kibana, Logstash, Beats)</p></figcaption></figure>
+
 
 ### ELK 스택을 활용해보자
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>ELK 스택(Elasticsearch, Kibana, Logstash, Beats)</p></figcaption></figure>
+
+
 
 RDB와 같은 방식으로 관리하는 것보다 전용 로그 관리 도구를 사용하는 것이 더 효율적이다.\
 이 글을시작으로 사내 시스템의 로그 관리 방식을 개선하기 위한 사전 스터디를 진행하고자 한다.\
