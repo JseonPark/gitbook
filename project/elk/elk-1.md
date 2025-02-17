@@ -13,6 +13,8 @@ description: ELK스택에 익숙해지기 위해 무작정 설치하고 사용�
 
 ### 현재의 로그 관리 방법
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>현재 로그 분석방법 3가지</p></figcaption></figure>
+
 현재, 내가 운영 중인 서비스에서는 주요 로그들은 RDB의 LOG 테이블에 저장하고, 나머지 로그들은 서버에 직접 접근하여 파일을 열거나 다운받아 확인하는 방식으로 로그를 관리하고 있다.&#x20;
 
 ### 서버에 직접 접근하는 방식

@@ -12,7 +12,7 @@ description: macOS Gatekeeper에 의해 실행이 차단되었을때 조치 방�
 
 ### GateKeeper가 뭘까?
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>macOS GateKeeper</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>macOS GateKeeper</p></figcaption></figure>
 
 그렇다고 합니다..\
 한마디로 확인되지 않은 프로그램은 실행할 수 없게 차단하는 기능입니다.\
